@@ -1,7 +1,5 @@
 # JavaStack
 
-Note to self: This repo is saved as the directory "LSE/Term 1/MA407 Algorithms & Computation/Week 7/MyCode_Week7"  
-
 Let's talk about dynamic data structures.  
 Def<sup>n</sup>: A **linked list** is a data structure that can grow dynamically. Each element of a linked list has a value and a pointer that points to the next element. Unlike an array, it does not allow random access.  
 
